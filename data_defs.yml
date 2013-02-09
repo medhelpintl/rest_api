@@ -1,6 +1,5 @@
 --- 
-- !map:FieldDefinition 
-  :id: Weight
+- :id: Weight
   :name: Weight
   :slugified_name: Weight
   :format: float
@@ -18,8 +17,7 @@
   :max: 1500.0
   :unit_type: weight
   :cache_last_value: true
-- !map:FieldDefinition 
-  :id: Abdominal2
+- :id: Abdominal2
   :name: Abdominal exercises
   :slugified_name: Abdominal2
   :format: exercise
@@ -37,8 +35,7 @@
   :calorie_coefficient: 2.8
   :description: Front planks, bird-dog, bent knee sit-ups/crunches, medicine ball/cable rotations, supine reverse crunches, vertical toe touches
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Aerobics2
+- :id: Aerobics2
   :name: Aerobics
   :slugified_name: Aerobics2
   :format: exercise
@@ -59,8 +56,7 @@
   - :name: Aerobics - low impact
     :calorie_coefficient: 5.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Basketball2
+- :id: Basketball2
   :name: Basketball
   :slugified_name: Basketball2
   :format: exercise
@@ -85,8 +81,7 @@
     :calorie_coefficient: 6.5
   - :name: Shooting baskets
     :calorie_coefficient: 4.5
-- !map:FieldDefinition 
-  :id: Biceps2
+- :id: Biceps2
   :name: Bicep exercises
   :slugified_name: Biceps2
   :format: exercise
@@ -104,8 +99,7 @@
   :calorie_coefficient: 2.8
   :description: Dumbbell curl, incline curl, cable curl, preacher curl
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Bike, stationary2
+- :id: Bike, stationary2
   :name: Bike, stationary
   :slugified_name: Bike--stationary2
   :format: exercise
@@ -136,8 +130,7 @@
   - :name: Very Vigorous (201-270 watts)
     :calorie_coefficient: 14.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Biking2
+- :id: Biking2
   :name: Biking
   :slugified_name: Biking2
   :format: exercise
@@ -178,8 +171,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Biking Mountain Biking2
+- :id: Biking Mountain Biking2
   :name: Mountain Biking
   :slugified_name: Biking-Mountain-Biking2
   :format: exercise
@@ -202,8 +194,7 @@
     :calorie_coefficient: 16.0
   - :name: Uphill, vigorous
     :calorie_coefficient: 14.0
-- !map:FieldDefinition 
-  :id: Bowling2
+- :id: Bowling2
   :name: Bowling
   :slugified_name: Bowling2
   :format: exercise
@@ -222,8 +213,7 @@
   :types: 
   - :name: General
     :calorie_coefficient: 3.0
-- !map:FieldDefinition 
-  :id: Boxing2
+- :id: Boxing2
   :name: Boxing
   :slugified_name: Boxing2
   :format: exercise
@@ -247,8 +237,7 @@
     :calorie_coefficient: 5.5
   - :name: Sparring
     :calorie_coefficient: 7.8
-- !map:FieldDefinition 
-  :id: Calisthenics2
+- :id: Calisthenics2
   :name: Calisthenics
   :slugified_name: Calisthenics2
   :format: exercise
@@ -274,8 +263,7 @@
     :calorie_coefficient: 8.0
   :description: sit-ups, crunches, push-ups, pull-ups, squats, calf-raises, dips
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Calves2
+- :id: Calves2
   :name: Calf Exercises
   :slugified_name: Calves2
   :format: exercise
@@ -293,8 +281,7 @@
   :calorie_coefficient: 2.8
   :description: Seated raises, standing raises, machine heel raises
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Chest2
+- :id: Chest2
   :name: Chest Exercises
   :slugified_name: Chest2
   :format: exercise
@@ -312,8 +299,7 @@
   :calorie_coefficient: 2.8
   :description: Bench press, dumbbell fly, incline press, push-ups, decline press
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Circuit Training2
+- :id: Circuit Training2
   :name: Circuit Training
   :slugified_name: Circuit-Training2
   :format: exercise
@@ -335,8 +321,7 @@
     :calorie_coefficient: 4.3
   - :name: Vigorous
     :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Dancing2
+- :id: Dancing2
   :name: Dance
   :slugified_name: Dancing2
   :format: exercise
@@ -374,8 +359,7 @@
   - :name: Ballroom - slow
     :calorie_coefficient: 3.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Elliptical2
+- :id: Elliptical2
   :name: Elliptical
   :slugified_name: Elliptical2
   :format: exercise
@@ -395,8 +379,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Football2
+- :id: Football2
   :name: Football
   :slugified_name: Football2
   :format: exercise
@@ -421,8 +404,7 @@
   - :name: Touch/flag - light
     :calorie_coefficient: 4.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Gardening2
+- :id: Gardening2
   :name: Gardening
   :slugified_name: Gardening2
   :format: exercise
@@ -445,8 +427,7 @@
     :calorie_coefficient: 3.8
   - :name: Light
     :calorie_coefficient: 3.3
-- !map:FieldDefinition 
-  :id: Golf2
+- :id: Golf2
   :name: Golf
   :slugified_name: Golf2
   :format: exercise
@@ -473,8 +454,7 @@
   - :name: Walking
     :calorie_coefficient: 4.3
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Gymnastics2
+- :id: Gymnastics2
   :name: Gymnastics
   :slugified_name: Gymnastics2
   :format: exercise
@@ -491,8 +471,7 @@
   :hide_label: true
   :calorie_coefficient: 3.8
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Handball2
+- :id: Handball2
   :name: Handball
   :slugified_name: Handball2
   :format: exercise
@@ -512,8 +491,7 @@
     :calorie_coefficient: 12.0
   - :name: Team
     :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Health Rider2
+- :id: Health Rider2
   :name: Health Rider
   :slugified_name: Health-Rider2
   :format: exercise
@@ -529,8 +507,7 @@
   :hide_label: true
   :calorie_coefficient: 2.4
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Hiking2
+- :id: Hiking2
   :name: Hiking
   :slugified_name: Hiking2
   :format: exercise
@@ -557,8 +534,7 @@
     :calorie_coefficient: 7.8
   - :name: Through fields and hillsides at normal pace
     :calorie_coefficient: 5.3
-- !map:FieldDefinition 
-  :id: Hockey2
+- :id: Hockey2
   :name: Ice hockey
   :slugified_name: Hockey2
   :format: exercise
@@ -580,8 +556,7 @@
     :calorie_coefficient: 10.0
   - :name: General
     :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Housecleaning2
+- :id: Housecleaning2
   :name: Housecleaning
   :slugified_name: Housecleaning2
   :format: exercise
@@ -604,8 +579,7 @@
   - :name: Heavy/Vigorous
     :calorie_coefficient: 3.8
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Ice Skating2
+- :id: Ice Skating2
   :name: Ice Skating
   :slugified_name: Ice-Skating2
   :format: exercise
@@ -628,8 +602,7 @@
     :calorie_coefficient: 14.0
   - :name: Speed, competitive
     :calorie_coefficient: 13.3
-- !map:FieldDefinition 
-  :id: Jogging2
+- :id: Jogging2
   :name: Jogging
   :slugified_name: Jogging2
   :format: exercise
@@ -656,8 +629,7 @@
     :calorie_coefficient: 8.0
   - :name: Less than 10 min
     :calorie_coefficient: 6.0
-- !map:FieldDefinition 
-  :id: Jump Rope2
+- :id: Jump Rope2
   :name: Jump Rope
   :slugified_name: Jump-Rope2
   :format: exercise
@@ -680,8 +652,7 @@
     :calorie_coefficient: 5.35
   - :name: Fast pace (120-160 skips/min)
     :calorie_coefficient: 5.58
-- !map:FieldDefinition 
-  :id: Kayaking2
+- :id: Kayaking2
   :name: Kayaking
   :slugified_name: Kayaking2
   :format: exercise
@@ -698,8 +669,7 @@
   :hide_label: true
   :calorie_coefficient: 5.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Lower Back2
+- :id: Lower Back2
   :name: Lower Back
   :slugified_name: Lower-Back2
   :format: exercise
@@ -717,8 +687,7 @@
   :calorie_coefficient: 2.8
   :description: Stability ball reverse extensions, contralateral limb raises, superman, low back machine
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Martial Arts2
+- :id: Martial Arts2
   :name: Martial Arts
   :slugified_name: Martial-Arts2
   :format: exercise
@@ -740,8 +709,7 @@
     :calorie_coefficient: 10.3
   - :name: Slow
     :calorie_coefficient: 5.3
-- !map:FieldDefinition 
-  :id: Personal Training2
+- :id: Personal Training2
   :name: Personal Training
   :slugified_name: Personal-Training2
   :format: exercise
@@ -759,8 +727,7 @@
   :calorie_coefficient: 5.0
   :description: An assigned fitness routine from a Personal Trainer consisting of weight training and gym or aerobic exercise.
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Racquetball2
+- :id: Racquetball2
   :name: Racquetball
   :slugified_name: Racquetball2
   :format: exercise
@@ -781,8 +748,7 @@
   - :name: Casual
     :calorie_coefficient: 7.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Rock Climbing2
+- :id: Rock Climbing2
   :name: Rock Climbing
   :slugified_name: Rock-Climbing2
   :format: exercise
@@ -807,8 +773,7 @@
     :calorie_coefficient: 8.0
   - :name: Rappelling
     :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Rollerbladding2
+- :id: Rollerbladding2
   :name: Rollerblading
   :slugified_name: Rollerbladding2
   :format: exercise
@@ -841,8 +806,7 @@
     :min: -9223372036854775808
     :max: 9223372036854775807
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Rowing2
+- :id: Rowing2
   :name: Rowing
   :slugified_name: Rowing2
   :format: exercise
@@ -867,8 +831,7 @@
   - :name: Competition (>6 mph)
     :calorie_coefficient: 12.5
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Running2
+- :id: Running2
   :name: Running
   :slugified_name: Running2
   :format: exercise
@@ -936,8 +899,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Scuba Diving2
+- :id: Scuba Diving2
   :name: Scuba Diving
   :slugified_name: Scuba-Diving2
   :format: boolean
@@ -953,8 +915,7 @@
   :hide_label: true
   :calorie_coefficient: 7.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Shoulders2
+- :id: Shoulders2
   :name: Shoulders
   :slugified_name: Shoulders2
   :format: exercise
@@ -972,8 +933,7 @@
   :calorie_coefficient: 2.8
   :description: Shoulder press, lateral raise, front raise, dumbbell/barbell shrug
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Skateboarding2
+- :id: Skateboarding2
   :name: Skateboarding
   :slugified_name: Skateboarding2
   :format: exercise
@@ -990,8 +950,7 @@
   :hide_label: true
   :calorie_coefficient: 5.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Ski Machine2
+- :id: Ski Machine2
   :name: Ski Machine
   :slugified_name: Ski-Machine2
   :format: exercise
@@ -1008,8 +967,7 @@
   :hide_label: true
   :calorie_coefficient: 6.8
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Skiing2
+- :id: Skiing2
   :name: Downhill skiing
   :slugified_name: Skiing2
   :format: exercise
@@ -1035,8 +993,7 @@
     :calorie_coefficient: 8.0
   - :name: General
     :calorie_coefficient: 7.0
-- !map:FieldDefinition 
-  :id: Snow Shoeing2
+- :id: Snow Shoeing2
   :name: Snow Shoeing
   :slugified_name: Snow-Shoeing2
   :format: exercise
@@ -1057,8 +1014,7 @@
     :calorie_coefficient: 5.3
   - :name: Vigorous
     :calorie_coefficient: 10.0
-- !map:FieldDefinition 
-  :id: Snow Shoveling2
+- :id: Snow Shoveling2
   :name: Snow Shoveling
   :slugified_name: Snow-Shoveling2
   :format: exercise
@@ -1079,8 +1035,7 @@
     :calorie_coefficient: 5.3
   - :name: Vigorous
     :calorie_coefficient: 7.5
-- !map:FieldDefinition 
-  :id: Soccer2
+- :id: Soccer2
   :name: Soccer
   :slugified_name: Soccer2
   :format: exercise
@@ -1101,8 +1056,7 @@
     :calorie_coefficient: 7.0
   - :name: Competitive
     :calorie_coefficient: 10.0
-- !map:FieldDefinition 
-  :id: Softball/Baseball2
+- :id: Softball/Baseball2
   :name: Softball/Baseball
   :slugified_name: Softball-Baseball2
   :format: exercise
@@ -1125,8 +1079,7 @@
     :calorie_coefficient: 6.0
   - :name: Practice
     :calorie_coefficient: 4.0
-- !map:FieldDefinition 
-  :id: Squash2
+- :id: Squash2
   :name: Squash
   :slugified_name: Squash2
   :format: exercise
@@ -1143,8 +1096,7 @@
   :hide_label: true
   :calorie_coefficient: 7.3
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Stairmaster2
+- :id: Stairmaster2
   :name: Stairmaster
   :slugified_name: Stairmaster2
   :format: exercise
@@ -1161,8 +1113,7 @@
   :hide_label: true
   :calorie_coefficient: 9.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Step Aerobics2
+- :id: Step Aerobics2
   :name: Step Aerobics
   :slugified_name: Step-Aerobics2
   :format: exercise
@@ -1185,8 +1136,7 @@
   - :name: 6-8 inch step
     :calorie_coefficient: 7.5
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Stretching2
+- :id: Stretching2
   :name: Stretching
   :slugified_name: Stretching2
   :format: exercise
@@ -1203,8 +1153,7 @@
   :hide_label: true
   :calorie_coefficient: 2.3
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Swimming2
+- :id: Swimming2
   :name: Swimming
   :slugified_name: Swimming2
   :format: exercise
@@ -1236,8 +1185,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Swimming Breaststroke2
+- :id: Swimming Breaststroke2
   :name: Swimming-Breast stroke
   :slugified_name: Swimming-Breaststroke2
   :format: exercise
@@ -1261,8 +1209,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Swimming Butterfly2
+- :id: Swimming Butterfly2
   :name: Swimming-Butterfly
   :slugified_name: Swimming-Butterfly2
   :format: exercise
@@ -1286,8 +1233,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Swimming Backstroke2
+- :id: Swimming Backstroke2
   :name: Swimming-Back stroke
   :slugified_name: Swimming-Backstroke2
   :format: exercise
@@ -1311,8 +1257,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Tai Chi2
+- :id: Tai Chi2
   :name: Tai Chi
   :slugified_name: Tai-Chi2
   :format: exercise
@@ -1331,8 +1276,7 @@
   :types: 
   - :name: General
     :calorie_coefficient: 3.0
-- !map:FieldDefinition 
-  :id: Tennis2
+- :id: Tennis2
   :name: Tennis
   :slugified_name: Tennis2
   :format: exercise
@@ -1355,8 +1299,7 @@
     :calorie_coefficient: 4.5
   - :name: Non-game play, moderate
     :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Triceps2
+- :id: Triceps2
   :name: Triceps
   :slugified_name: Triceps2
   :format: exercise
@@ -1374,8 +1317,7 @@
   :calorie_coefficient: 2.8
   :description: Dips, standing or lying extensions, overhead extensions, kickbacks, skull crushers, cable pushdown/pressdown
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Upper Back2
+- :id: Upper Back2
   :name: Upper Back
   :slugified_name: Upper-Back2
   :format: exercise
@@ -1393,8 +1335,7 @@
   :calorie_coefficient: 2.8
   :description: Machine/cable/dumbbell rows, lateral pull downs, pull ups, upright rows
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Upper Leg2
+- :id: Upper Leg2
   :name: Upper Leg
   :slugified_name: Upper-Leg2
   :format: exercise
@@ -1412,8 +1353,7 @@
   :calorie_coefficient: 2.8
   :description: "Strength-training exercises for quadriceps, hamstrings, and glutes: Wall sits, leg press, squats, step ups, lunges, gluteal Machine, leg extensions, leg curls, 4-way hip machine"
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Volleyball2
+- :id: Volleyball2
   :name: Volleyball
   :slugified_name: Volleyball2
   :format: exercise
@@ -1435,8 +1375,7 @@
   - :name: General
     :calorie_coefficient: 4.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Walking2
+- :id: Walking2
   :name: Walking
   :slugified_name: Walking2
   :format: exercise
@@ -1483,8 +1422,7 @@
   :has_distance: true
   :distance_max: 1400.0
   :speed_max: 100.0
-- !map:FieldDefinition 
-  :id: Water Aerobics2
+- :id: Water Aerobics2
   :name: Water Aerobics
   :slugified_name: Water-Aerobics2
   :format: exercise
@@ -1501,8 +1439,7 @@
   :hide_label: true
   :calorie_coefficient: 5.3
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Water Polo2
+- :id: Water Polo2
   :name: Water Polo
   :slugified_name: Water-Polo2
   :format: exercise
@@ -1519,8 +1456,7 @@
   :hide_label: true
   :calorie_coefficient: 10.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Water Skiing2
+- :id: Water Skiing2
   :name: Water Skiing
   :slugified_name: Water-Skiing2
   :format: exercise
@@ -1537,8 +1473,7 @@
   :hide_label: true
   :calorie_coefficient: 6.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Weights2
+- :id: Weights2
   :name: Weight Lifting
   :slugified_name: Weights2
   :format: exercise
@@ -1563,8 +1498,7 @@
   - :name: 8-15 reps at different resistance
     :calorie_coefficient: 3.5
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Whitewater Sports2
+- :id: Whitewater Sports2
   :name: Whitewater Sports
   :slugified_name: Whitewater-Sports2
   :format: exercise
@@ -1582,8 +1516,7 @@
   :calorie_coefficient: 5.0
   :new_exercise: true
   :description: Rafting/Kayaking/Canoeing
-- !map:FieldDefinition 
-  :id: Wrestling2
+- :id: Wrestling2
   :name: Wrestling
   :slugified_name: Wrestling2
   :format: exercise
@@ -1600,8 +1533,7 @@
   :hide_label: true
   :calorie_coefficient: 6.0
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Yoga2
+- :id: Yoga2
   :name: Yoga
   :slugified_name: Yoga2
   :format: exercise
@@ -1626,8 +1558,7 @@
     :calorie_coefficient: 4.0
   - :name: Surya namaskar
     :calorie_coefficient: 3.3
-- !map:FieldDefinition 
-  :id: Stairs2
+- :id: Stairs2
   :name: Stairs
   :slugified_name: Stairs2
   :format: exercise
@@ -1649,8 +1580,7 @@
     :calorie_coefficient: 4.0
   - :name: Fast
     :calorie_coefficient: 8.8
-- !map:FieldDefinition 
-  :id: Treadmill2
+- :id: Treadmill2
   :name: Treadmill
   :slugified_name: Treadmill2
   :format: exercise
@@ -1733,8 +1663,7 @@
     :min: -9223372036854775808
     :max: 9223372036854775807
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Wii2
+- :id: Wii2
   :name: Video Games
   :slugified_name: Wii2
   :format: exercise
@@ -1756,8 +1685,7 @@
     :calorie_coefficient: 3.8
   :new_exercise: true
   :description: Wii
-- !map:FieldDefinition 
-  :id: Generic Exercise
+- :id: Generic Exercise
   :name: Other
   :slugified_name: Generic-Exercise
   :format: exercise
@@ -1776,8 +1704,7 @@
   :types: 
   - :name: Exercise activity
     :calorie_coefficient: 0.0
-- !map:FieldDefinition 
-  :id: Pushups2
+- :id: Pushups2
   :name: Pushups
   :slugified_name: Pushups2
   :format: boolean
@@ -1794,8 +1721,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Situps2
+- :id: Situps2
   :name: Situps
   :slugified_name: Situps2
   :format: boolean
@@ -1812,8 +1738,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Chinups2
+- :id: Chinups2
   :name: Chinups
   :slugified_name: Chinups2
   :format: boolean
@@ -1830,8 +1755,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Jumping Jacks2
+- :id: Jumping Jacks2
   :name: Jumping Jacks
   :slugified_name: Jumping-Jacks2
   :format: boolean
@@ -1848,8 +1772,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 3.8
-- !map:FieldDefinition 
-  :id: Lunges2
+- :id: Lunges2
   :name: Lunges
   :slugified_name: Lunges2
   :format: boolean
@@ -1866,8 +1789,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Crunches2
+- :id: Crunches2
   :name: Crunches
   :slugified_name: Crunches2
   :format: boolean
@@ -1884,8 +1806,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Pullups2
+- :id: Pullups2
   :name: Pullups
   :slugified_name: Pullups2
   :format: boolean
@@ -1902,8 +1823,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Squats2
+- :id: Squats2
   :name: Squats
   :slugified_name: Squats2
   :format: boolean
@@ -1918,8 +1838,7 @@
   :class: ExerciseData
   :has_reps: true
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Calf-raises2
+- :id: Calf-raises2
   :name: Calf-raises
   :slugified_name: Calf-raises2
   :format: boolean
@@ -1935,8 +1854,7 @@
   :section: Chart
   :has_reps: true
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Dips2
+- :id: Dips2
   :name: Dips
   :slugified_name: Dips2
   :format: boolean
@@ -1953,8 +1871,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Flutter kicks2
+- :id: Flutter kicks2
   :name: Flutter kicks
   :slugified_name: Flutter-kicks2
   :format: boolean
@@ -1971,8 +1888,7 @@
   :has_reps: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Backpacking
+- :id: Backpacking
   :name: Backpacking
   :slugified_name: Backpacking
   :format: exercise
@@ -1993,8 +1909,7 @@
     :calorie_coefficient: 7.0
   - :name: Hiking, organized walk with daypack
     :calorie_coefficient: 7.8
-- !map:FieldDefinition 
-  :id: Badminton
+- :id: Badminton
   :name: Badminton
   :slugified_name: Badminton
   :format: exercise
@@ -2015,8 +1930,7 @@
     :calorie_coefficient: 5.5
   - :name: Competitive
     :calorie_coefficient: 7.0
-- !map:FieldDefinition 
-  :id: Baseball
+- :id: Baseball
   :name: Baseball
   :slugified_name: Baseball
   :format: exercise
@@ -2039,8 +1953,7 @@
     :calorie_coefficient: 6.0
   - :name: Practice
     :calorie_coefficient: 4.0
-- !map:FieldDefinition 
-  :id: Boot Camp
+- :id: Boot Camp
   :name: Boot Camp
   :slugified_name: Boot-Camp
   :format: exercise
@@ -2057,8 +1970,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Canoeing
+- :id: Canoeing
   :name: Canoeing
   :slugified_name: Canoeing
   :format: exercise
@@ -2083,8 +1995,7 @@
     :calorie_coefficient: 12.0
   - :name: Portaging
     :calorie_coefficient: 7.0
-- !map:FieldDefinition 
-  :id: Cheerleading
+- :id: Cheerleading
   :name: Cheerleading
   :slugified_name: Cheerleading
   :format: exercise
@@ -2101,8 +2012,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 15.0
-- !map:FieldDefinition 
-  :id: Exercise Video Workout
+- :id: Exercise Video Workout
   :name: Exercise Video Workout
   :slugified_name: Exercise-Video-Workout
   :format: exercise
@@ -2125,8 +2035,7 @@
     :calorie_coefficient: 4.0
   - :name: Vigorous
     :calorie_coefficient: 6.0
-- !map:FieldDefinition 
-  :id: Frisbee
+- :id: Frisbee
   :name: Frisbee
   :slugified_name: Frisbee
   :format: exercise
@@ -2147,8 +2056,7 @@
     :calorie_coefficient: 3.0
   - :name: Ultimate
     :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Gym
+- :id: Gym
   :name: Gym
   :slugified_name: Gym
   :format: exercise
@@ -2171,8 +2079,7 @@
     :calorie_coefficient: 7.8
   - :name: Gym/weight training in one visit
     :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Field hockey
+- :id: Field hockey
   :name: Field hockey
   :slugified_name: Field-hockey
   :format: exercise
@@ -2189,8 +2096,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 7.8
-- !map:FieldDefinition 
-  :id: Horseback Riding
+- :id: Horseback Riding
   :name: Horseback Riding
   :slugified_name: Horseback-Riding
   :format: exercise
@@ -2217,8 +2123,7 @@
     :calorie_coefficient: 5.8
   - :name: Walking
     :calorie_coefficient: 3.8
-- !map:FieldDefinition 
-  :id: Kickball
+- :id: Kickball
   :name: Kickball
   :slugified_name: Kickball
   :format: exercise
@@ -2235,8 +2140,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 7.0
-- !map:FieldDefinition 
-  :id: Lacrosse
+- :id: Lacrosse
   :name: Lacrosse
   :slugified_name: Lacrosse
   :format: exercise
@@ -2253,8 +2157,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Pilates
+- :id: Pilates
   :name: Pilates
   :slugified_name: Pilates
   :format: exercise
@@ -2271,8 +2174,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 3.0
-- !map:FieldDefinition 
-  :id: Roller Skating
+- :id: Roller Skating
   :name: Roller Skating
   :slugified_name: Roller-Skating
   :format: exercise
@@ -2289,8 +2191,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 7.0
-- !map:FieldDefinition 
-  :id: Rugby
+- :id: Rugby
   :name: Rugby
   :slugified_name: Rugby
   :format: exercise
@@ -2311,8 +2212,7 @@
     :calorie_coefficient: 6.3
   - :name: Competitive
     :calorie_coefficient: 8.3
-- !map:FieldDefinition 
-  :id: Rowing, stationary
+- :id: Rowing, stationary
   :name: Rowing, stationary
   :slugified_name: Rowing--stationary
   :format: exercise
@@ -2337,8 +2237,7 @@
     :calorie_coefficient: 8.5
   - :name: Very vigorous (200 watts)
     :calorie_coefficient: 12.0
-- !map:FieldDefinition 
-  :id: Snorkeling
+- :id: Snorkeling
   :name: Snorkeling
   :slugified_name: Snorkeling
   :format: exercise
@@ -2355,8 +2254,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Snowboarding
+- :id: Snowboarding
   :name: Snowboarding
   :slugified_name: Snowboarding
   :format: exercise
@@ -2381,8 +2279,7 @@
     :calorie_coefficient: 5.3
   - :name: Vigorous
     :calorie_coefficient: 8.0
-- !map:FieldDefinition 
-  :id: Surfing
+- :id: Surfing
   :name: Surfing
   :slugified_name: Surfing
   :format: exercise
@@ -2404,8 +2301,7 @@
     :calorie_coefficient: 3.0
   - :name: Competitive
     :calorie_coefficient: 5.0
-- !map:FieldDefinition 
-  :id: Table Tennis
+- :id: Table Tennis
   :name: Table Tennis
   :slugified_name: Table-Tennis
   :format: exercise
@@ -2422,8 +2318,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 4.0
-- !map:FieldDefinition 
-  :id: Therapeutic Exercise Ball
+- :id: Therapeutic Exercise Ball
   :name: Therapeutic Exercise Ball
   :slugified_name: Therapeutic-Exercise-Ball
   :format: exercise
@@ -2440,8 +2335,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 2.8
-- !map:FieldDefinition 
-  :id: Track and Field
+- :id: Track and Field
   :name: Track and Field
   :slugified_name: Track-and-Field
   :format: exercise
@@ -2465,8 +2359,7 @@
     :calorie_coefficient: 6.0
   - :name: Vigorous
     :calorie_coefficient: 10.0
-- !map:FieldDefinition 
-  :id: Water vollyeball
+- :id: Water vollyeball
   :name: Water vollyeball
   :slugified_name: Water-vollyeball
   :format: exercise
@@ -2483,8 +2376,7 @@
   :hide_label: true
   :new_exercise: true
   :calorie_coefficient: 3.0
-- !map:FieldDefinition 
-  :id: Yard Work
+- :id: Yard Work
   :name: Yard Work
   :slugified_name: Yard-Work
   :format: exercise
@@ -2507,8 +2399,7 @@
     :calorie_coefficient: 4.0
   - :name: Vigorous
     :calorie_coefficient: 6.0
-- !map:FieldDefinition 
-  :id: Cross-country skiing
+- :id: Cross-country skiing
   :name: Cross-country skiing
   :slugified_name: Cross-country-skiing
   :format: exercise
@@ -2540,8 +2431,7 @@
     :min: -9223372036854775808
     :max: 9223372036854775807
   :new_exercise: true
-- !map:FieldDefinition 
-  :id: Anxiety
+- :id: Anxiety
   :name: Anxiety
   :slugified_name: Anxiety
   :format: boolean
@@ -2555,8 +2445,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Appetite
+- :id: Appetite
   :name: Appetite
   :slugified_name: Appetite
   :format: drop_down
@@ -2575,8 +2464,7 @@
     Decrease: -1
     Normal: 0
     Increase: 1
-- !map:FieldDefinition 
-  :id: Body aches
+- :id: Body aches
   :name: Body aches
   :slugified_name: Body-aches
   :format: boolean
@@ -2590,8 +2478,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Constipation
+- :id: Constipation
   :name: Constipation
   :slugified_name: Constipation
   :format: boolean
@@ -2605,8 +2492,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Depression
+- :id: Depression
   :name: Depression
   :slugified_name: Depression
   :format: boolean
@@ -2620,8 +2506,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Diarrhea
+- :id: Diarrhea
   :name: Diarrhea
   :slugified_name: Diarrhea
   :format: boolean
@@ -2635,8 +2520,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Dizziness
+- :id: Dizziness
   :name: Dizziness
   :slugified_name: Dizziness
   :format: boolean
@@ -2651,8 +2535,7 @@
   :class: BinaryData
   :section: Symptoms
   :description: dizziness or light-headedness
-- !map:FieldDefinition 
-  :id: Drowsiness
+- :id: Drowsiness
   :name: Drowsiness
   :slugified_name: Drowsiness
   :format: boolean
@@ -2666,8 +2549,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Fatigue
+- :id: Fatigue
   :name: Fatigue
   :slugified_name: Fatigue
   :format: boolean
@@ -2682,8 +2564,7 @@
   :class: BinaryData
   :section: Symptoms
   :description: fatigue or day-time sleepiness
-- !map:FieldDefinition 
-  :id: Fever
+- :id: Fever
   :name: Fever
   :slugified_name: Fever
   :format: boolean
@@ -2698,8 +2579,7 @@
   :class: BinaryData
   :section: Symptoms
   :description: memory loss, difficulties with language and learning
-- !map:FieldDefinition 
-  :id: Forgetfulness
+- :id: Forgetfulness
   :name: Forgetfulness
   :slugified_name: Forgetfulness
   :format: boolean
@@ -2713,8 +2593,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Headache
+- :id: Headache
   :name: Headache
   :slugified_name: Headache
   :format: boolean
@@ -2729,8 +2608,7 @@
   :class: BinaryData
   :section: Symptoms
   :description: including migraines
-- !map:FieldDefinition 
-  :id: Impingement
+- :id: Impingement
   :name: Impingement
   :slugified_name: Impingement
   :format: boolean
@@ -2744,8 +2622,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Increased sweating
+- :id: Increased sweating
   :name: Increased sweating
   :slugified_name: Increased-sweating
   :format: boolean
@@ -2759,8 +2636,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Insomnia
+- :id: Insomnia
   :name: Insomnia
   :slugified_name: Insomnia
   :format: boolean
@@ -2774,8 +2650,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Irritability
+- :id: Irritability
   :name: Irritability
   :slugified_name: Irritability
   :format: boolean
@@ -2789,8 +2664,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Joint pain
+- :id: Joint pain
   :name: Joint pain
   :slugified_name: Joint-pain
   :format: boolean
@@ -2804,8 +2678,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Mood swings
+- :id: Mood swings
   :name: Mood swings
   :slugified_name: Mood-swings
   :format: boolean
@@ -2819,8 +2692,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Muscle pain
+- :id: Muscle pain
   :name: Muscle pain
   :slugified_name: Muscle-pain
   :format: boolean
@@ -2834,8 +2706,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Nausea
+- :id: Nausea
   :name: Nausea
   :slugified_name: Nausea
   :format: boolean
@@ -2849,8 +2720,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Nerve pain
+- :id: Nerve pain
   :name: Nerve pain
   :slugified_name: Nerve-pain
   :format: boolean
@@ -2864,8 +2734,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Rash
+- :id: Rash
   :name: Rash
   :slugified_name: Rash
   :format: boolean
@@ -2879,8 +2748,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: RLS
+- :id: RLS
   :name: RLS
   :slugified_name: RLS
   :format: boolean
@@ -2895,8 +2763,7 @@
   :class: BinaryData
   :section: Symptoms
   :description: Restless Leg Syndrome
-- !map:FieldDefinition 
-  :id: Sleep disturbance
+- :id: Sleep disturbance
   :name: Sleep disturbance
   :slugified_name: Sleep-disturbance
   :format: boolean
@@ -2910,8 +2777,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Upset stomach
+- :id: Upset stomach
   :name: Upset stomach
   :slugified_name: Upset-stomach
   :format: boolean
@@ -2925,8 +2791,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Urination
+- :id: Urination
   :name: Urination
   :slugified_name: Urination
   :format: drop_down
@@ -2945,8 +2810,7 @@
     Decrease: -1
     Normal: 0
     Increase: 1
-- !map:FieldDefinition 
-  :id: Visual problems
+- :id: Visual problems
   :name: Visual problems
   :slugified_name: Visual-problems
   :format: boolean
@@ -2960,8 +2824,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Vomiting
+- :id: Vomiting
   :name: Vomiting
   :slugified_name: Vomiting
   :format: boolean
@@ -2975,8 +2838,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Weakness
+- :id: Weakness
   :name: Weakness
   :slugified_name: Weakness
   :format: boolean
@@ -2990,8 +2852,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Acetaminophen
+- :id: Acetaminophen
   :name: Acetaminophen
   :slugified_name: Acetaminophen
   :format: boolean
@@ -3006,8 +2867,7 @@
   :class: BinaryData
   :description: Tylenol
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Acupuncture
+- :id: Acupuncture
   :name: Acupuncture
   :slugified_name: Acupuncture
   :format: boolean
@@ -3021,8 +2881,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Alternative Meds
+- :id: Alternative Meds
   :name: Alternative Meds
   :slugified_name: Alternative-Meds
   :format: boolean
@@ -3036,8 +2895,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Anti-depressants
+- :id: Anti-depressants
   :name: Anti-depressants
   :slugified_name: Anti-depressants
   :format: boolean
@@ -3052,8 +2910,7 @@
   :class: BinaryData
   :description: "Examples: Elavil, Pamelor, Trazodone"
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Anti-inflammatory
+- :id: Anti-inflammatory
   :name: Anti-inflammatory
   :slugified_name: Anti-inflammatory
   :format: boolean
@@ -3067,8 +2924,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Anticonvulsants
+- :id: Anticonvulsants
   :name: Anticonvulsants
   :slugified_name: Anticonvulsants
   :format: boolean
@@ -3082,8 +2938,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Antiemetics
+- :id: Antiemetics
   :name: Antiemetics
   :slugified_name: Antiemetics
   :format: boolean
@@ -3097,8 +2952,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Caffeine
+- :id: Caffeine
   :name: Caffeine
   :slugified_name: Caffeine
   :format: boolean
@@ -3112,8 +2966,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Events
-- !map:FieldDefinition 
-  :id: Capsaicin
+- :id: Capsaicin
   :name: Capsaicin
   :slugified_name: Capsaicin
   :format: boolean
@@ -3128,8 +2981,7 @@
   :class: BinaryData
   :description: Capsin
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Carbamazepine
+- :id: Carbamazepine
   :name: Carbamazepine
   :slugified_name: Carbamazepine
   :format: boolean
@@ -3143,8 +2995,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Cephadyn
+- :id: Cephadyn
   :name: Cephadyn
   :slugified_name: Cephadyn
   :format: boolean
@@ -3158,8 +3009,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Chiropractic
+- :id: Chiropractic
   :name: Chiropractic
   :slugified_name: Chiropractic
   :format: boolean
@@ -3173,8 +3023,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Chondroitin
+- :id: Chondroitin
   :name: Chondroitin
   :slugified_name: Chondroitin
   :format: boolean
@@ -3188,8 +3037,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Corticosteroids
+- :id: Corticosteroids
   :name: Corticosteroids
   :slugified_name: Corticosteroids
   :format: boolean
@@ -3204,8 +3052,7 @@
   :class: BinaryData
   :section: Treatments
   :description: e.g. Prednisone, Methylprednisilone
-- !map:FieldDefinition 
-  :id: Emla cream
+- :id: Emla cream
   :name: Emla cream
   :slugified_name: Emla-cream
   :format: boolean
@@ -3220,8 +3067,7 @@
   :class: BinaryData
   :description: Advil, Motrin IB
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Epidural
+- :id: Epidural
   :name: Epidural
   :slugified_name: Epidural
   :format: boolean
@@ -3236,8 +3082,7 @@
   :class: BinaryData
   :description: Epidural steroid injection
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Excedrin
+- :id: Excedrin
   :name: Excedrin
   :slugified_name: Excedrin
   :format: boolean
@@ -3251,8 +3096,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Exercise
+- :id: Exercise
   :name: Exercise
   :slugified_name: Exercise
   :format: boolean
@@ -3266,8 +3110,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Chart
-- !map:FieldDefinition 
-  :id: Fioricet
+- :id: Fioricet
   :name: Fioricet
   :slugified_name: Fioricet
   :format: boolean
@@ -3281,8 +3124,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Gabapentin
+- :id: Gabapentin
   :name: Gabapentin
   :slugified_name: Gabapentin
   :format: boolean
@@ -3297,8 +3139,7 @@
   :class: BinaryData
   :description: Neurontin
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Glucosamine
+- :id: Glucosamine
   :name: Glucosamine
   :slugified_name: Glucosamine
   :format: boolean
@@ -3312,8 +3153,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Heat
+- :id: Heat
   :name: Heat
   :slugified_name: Heat
   :format: boolean
@@ -3328,8 +3168,7 @@
   :class: BinaryData
   :section: Treatments
   :description: hot weather or water temperature as a trigger
-- !map:FieldDefinition 
-  :id: Herbal treatments
+- :id: Herbal treatments
   :name: Herbal treatments
   :slugified_name: Herbal-treatments
   :format: boolean
@@ -3343,8 +3182,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Hydrocodone
+- :id: Hydrocodone
   :name: Hydrocodone
   :slugified_name: Hydrocodone
   :format: boolean
@@ -3358,8 +3196,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Ibuprofen
+- :id: Ibuprofen
   :name: Ibuprofen
   :slugified_name: Ibuprofen
   :format: boolean
@@ -3374,8 +3211,7 @@
   :class: BinaryData
   :description: Advil, Midol 1B, Motrin
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Ice
+- :id: Ice
   :name: Ice
   :slugified_name: Ice
   :format: boolean
@@ -3389,8 +3225,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Injection
+- :id: Injection
   :name: Injection
   :slugified_name: Injection
   :format: boolean
@@ -3405,8 +3240,7 @@
   :class: BinaryData
   :description: Trigger point injection
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Laxative
+- :id: Laxative
   :name: Laxative
   :slugified_name: Laxative
   :format: boolean
@@ -3420,8 +3254,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Lidoderm
+- :id: Lidoderm
   :name: Lidoderm
   :slugified_name: Lidoderm
   :format: boolean
@@ -3435,8 +3268,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Lyrica
+- :id: Lyrica
   :name: Lyrica
   :slugified_name: Lyrica
   :format: boolean
@@ -3451,8 +3283,7 @@
   :class: BinaryData
   :description: Pregabalin
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Massage
+- :id: Massage
   :name: Massage
   :slugified_name: Massage
   :format: boolean
@@ -3466,8 +3297,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Mexitil
+- :id: Mexitil
   :name: Mexitil
   :slugified_name: Mexitil
   :format: boolean
@@ -3481,8 +3311,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Mirapex
+- :id: Mirapex
   :name: Mirapex
   :slugified_name: Mirapex
   :format: boolean
@@ -3496,8 +3325,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Mobic
+- :id: Mobic
   :name: Mobic
   :slugified_name: Mobic
   :format: boolean
@@ -3512,8 +3340,7 @@
   :class: BinaryData
   :section: Treatments
   :description: meloxicam
-- !map:FieldDefinition 
-  :id: Morphine
+- :id: Morphine
   :name: Morphine
   :slugified_name: Morphine
   :format: boolean
@@ -3528,8 +3355,7 @@
   :class: BinaryData
   :description: Avinza, Kadian, MS Contin, MSIR, Oramorph SR, Rescudose, Roxanol, Roxanol 100
   :section: Treatments
-- !map:FieldDefinition 
-  :id: MSM
+- :id: MSM
   :name: MSM
   :slugified_name: MSM
   :format: boolean
@@ -3544,8 +3370,7 @@
   :class: BinaryData
   :section: Treatments
   :description: Methylsulfonylmethane
-- !map:FieldDefinition 
-  :id: Muscle relaxant
+- :id: Muscle relaxant
   :name: Muscle relaxant
   :slugified_name: Muscle-relaxant
   :format: boolean
@@ -3559,8 +3384,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: NSAIDs
+- :id: NSAIDs
   :name: NSAIDs
   :slugified_name: NSAIDs
   :format: boolean
@@ -3575,8 +3399,7 @@
   :class: BinaryData
   :section: Treatments
   :description: Nonsteroidal anti-inflammatory medications
-- !map:FieldDefinition 
-  :id: Omega-3
+- :id: Omega-3
   :name: Omega-3
   :slugified_name: Omega-3
   :format: boolean
@@ -3590,8 +3413,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Opiates
+- :id: Opiates
   :name: Opiates
   :slugified_name: Opiates
   :format: boolean
@@ -3605,8 +3427,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Oxycodone
+- :id: Oxycodone
   :name: Oxycodone
   :slugified_name: Oxycodone
   :format: boolean
@@ -3621,8 +3442,7 @@
   :class: BinaryData
   :description: M-Oxy, OxyContin, Oxyir, Percolone, Roxicodone
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Physical Therapy
+- :id: Physical Therapy
   :name: Physical Therapy
   :slugified_name: Physical-Therapy
   :format: boolean
@@ -3636,8 +3456,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Prednisone
+- :id: Prednisone
   :name: Prednisone
   :slugified_name: Prednisone
   :format: boolean
@@ -3652,8 +3471,7 @@
   :class: BinaryData
   :section: Treatments
   :description: Natalizumab
-- !map:FieldDefinition 
-  :id: Prilocaine topical
+- :id: Prilocaine topical
   :name: Prilocaine topical
   :slugified_name: Prilocaine-topical
   :format: boolean
@@ -3667,8 +3485,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Ranitidine
+- :id: Ranitidine
   :name: Ranitidine
   :slugified_name: Ranitidine
   :format: boolean
@@ -3682,8 +3499,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Rest
+- :id: Rest
   :name: Rest
   :slugified_name: Rest
   :format: boolean
@@ -3697,8 +3513,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Soma
+- :id: Soma
   :name: Soma
   :slugified_name: Soma
   :format: boolean
@@ -3712,8 +3527,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: TENS
+- :id: TENS
   :name: TENS
   :slugified_name: TENS
   :format: boolean
@@ -3728,8 +3542,7 @@
   :class: BinaryData
   :section: Treatments
   :description: Transcutaneous electrical nerve stimulation
-- !map:FieldDefinition 
-  :id: Topical analgesic
+- :id: Topical analgesic
   :name: Topical analgesic
   :slugified_name: Topical-analgesic
   :format: boolean
@@ -3743,8 +3556,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Tramodol
+- :id: Tramodol
   :name: Tramodol
   :slugified_name: Tramodol
   :format: boolean
@@ -3759,8 +3571,7 @@
   :class: BinaryData
   :description: Ultra, Ultra ER
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Triptans
+- :id: Triptans
   :name: Triptans
   :slugified_name: Triptans
   :format: boolean
@@ -3774,8 +3585,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Tylenol (Codeine)
+- :id: Tylenol (Codeine)
   :name: Tylenol (Codeine)
   :slugified_name: Tylenol-Codeine
   :format: boolean
@@ -3790,8 +3600,7 @@
   :class: BinaryData
   :description: co-codamol
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Vicodin
+- :id: Vicodin
   :name: Vicodin
   :slugified_name: Vicodin
   :format: boolean
@@ -3806,8 +3615,7 @@
   :class: BinaryData
   :description: Lorcet 10/650, Lortab, Zydone, acetaminophen
   :section: Treatments
-- !map:FieldDefinition 
-  :id: Stress
+- :id: Stress
   :name: Stress
   :slugified_name: Stress
   :format: boolean
@@ -3821,8 +3629,7 @@
   :tracker_setup: true
   :class: BinaryData
   :section: Symptoms
-- !map:FieldDefinition 
-  :id: Surgery
+- :id: Surgery
   :name: Surgery
   :slugified_name: Surgery
   :format: boolean
